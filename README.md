@@ -1,5 +1,3 @@
-# Geo409-field-trip
-Map for field trip
 
 # GEO409 Field Trip Maps
 Maps for field trip to measure tree canopy
