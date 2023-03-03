@@ -1,4 +1,4 @@
-# geo409-field-trip
+# Geo409-field-trip
 Map for field trip
 # Field-Mapping
 Map for Field Trip
