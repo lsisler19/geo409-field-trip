@@ -11,5 +11,5 @@ Kentucky counties with selected land cover types – [Download geospatial PDF](K
 ![UKy Campus canopy model](TreeHeightCanopyModel.jpg)   
 UKy central campus canopy model – [Download geospatial PDF](TreeHeightCanopyModel.pdf)
 
-Maps created by boydx for GEO409, Spring 2023, University of Kentucky Department of Geography
+Maps created by lsisler19 for GEO409, Spring 2023, University of Kentucky Department of Geography
 
